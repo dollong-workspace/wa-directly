@@ -1,40 +1,96 @@
-# WA Directly
+# 💬 WA Directly
 
-**WA Directly** adalah aplikasi web sederhana yang memungkinkan kamu memulai chat WhatsApp tanpa perlu menyimpan nomor kontak terlebih dahulu.
+**Chat WhatsApp Tanpa Ribet Simpan Nomor.**
 
-## 🚀 Akses Website
-
-Kamu bisa mengakses WA Directly melalui:
-
-- **Netlify**: [https://wa-directly.netlify.app/](https://wa-directly.netlify.app/)
-- **Lovable**: [https://wa-directly.lovable.app](https://wa-directly.lovable.app)
-
-## 📱 Cara Penggunaan
-
-1. **Pilih Kode Negara** - Pilih kode negara dari dropdown (default: Indonesia +62)
-2. **Masukkan Nomor Telepon** - Ketik nomor telepon tanpa angka 0 di depan
-   - Contoh: untuk 0812-345-678, cukup ketik `812345678`
-3. **Klik "Start Chat on WhatsApp"** - Tombol akan membuka WhatsApp langsung ke nomor tersebut
-
-## ✨ Fitur
-
-- 🌙 Dark mode dengan tema hijau WhatsApp
-- 🌍 Mendukung berbagai kode negara
-- 📱 Responsive untuk semua ukuran layar
-- 🔒 Tidak menyimpan data nomor telepon apapun
-- ⚡ Cepat dan ringan
-
-## 🔒 Privasi
-
-WA Directly tidak menyimpan nomor telepon apapun. Aplikasi ini hanya membuka link resmi WhatsApp API (`https://wa.me/...`).
-
-## 🛠️ Tech Stack
-
-- React + Vite
-- TypeScript
-- Tailwind CSS
-- Shadcn UI
+Pernah nggak sih mau chat nomor baru tapi males banget harus save dulu? WA Directly solusinya! Langsung chat, tanpa drama.
 
 ---
 
-© 2024 WA Directly
+## 🛑 Masalahnya
+
+Mau chat nomor WhatsApp baru? Harus:
+1. Buka kontak
+2. Tambah nomor baru
+3. Kasih nama (padahal cuma mau chat sekali)
+4. Baru bisa chat
+
+Ribet? Banget. Kontak jadi penuh sama "Ojol Kemarin", "CS Olshop", "Kurir Paket" 😅
+
+---
+
+## 🚀 Solusinya: WA Directly
+
+Ketik nomor → Klik → Langsung chat. That's it.
+
+Gak perlu save, gak perlu ribet. Nomor langsung dibuka di WhatsApp.
+
+---
+
+## ✨ Fitur Utama
+
+| Fitur | Deskripsi |
+|-------|-----------|
+| ⚡ **Instant Chat** | Langsung buka WhatsApp tanpa save nomor |
+| 🌍 **Multi Country Code** | Support berbagai kode negara (Indonesia default) |
+| 🌙 **Dark Mode** | Tema gelap yang nyaman di mata |
+| 🔒 **Privacy First** | Tidak menyimpan data apapun |
+| 📱 **Responsive** | Works di semua device |
+
+---
+
+## 📱 Cara Pakai
+
+**Step 1:** Pilih kode negara dari dropdown (default: Indonesia +62)
+
+**Step 2:** Masukkan nomor telepon **tanpa angka 0 di depan**
+- Contoh: untuk `0812-3456-789`, cukup ketik `8123456789`
+
+**Step 3:** Klik **"Start Chat on WhatsApp"** → Langsung terbuka WhatsApp!
+
+---
+
+## 🌐 Akses Website
+
+Bisa diakses gratis di:
+
+| Platform | Link |
+|----------|------|
+| 🚀 Netlify | [wa-directly.netlify.app](https://wa-directly.netlify.app/) |
+| 💜 Lovable | [wa-directly.lovable.app](https://wa-directly.lovable.app) |
+
+---
+
+## 🔒 Privasi
+
+**Zero data stored.** Seriously.
+
+- ❌ Tidak menyimpan nomor telepon
+- ❌ Tidak ada tracking
+- ❌ Tidak ada analytics creepy
+- ✅ Hanya redirect ke `https://wa.me/...` (official WhatsApp API)
+
+Your privacy is safe with us. Because we literally don't store anything 🤷‍♂️
+
+---
+
+## 👨‍💻 Tech Stack
+
+Built with modern tools:
+
+- ⚛️ **React** + **Vite** - Fast & modern
+- 📘 **TypeScript** - Type-safe development
+- 🎨 **Tailwind CSS** - Utility-first styling
+- 🧩 **Shadcn UI** - Beautiful components
+
+---
+
+## ⭐ Support
+
+Kalau project ini helpful, kasih ⭐ di repo ya! Gratis kok, sama kayak app-nya 😄
+
+---
+
+<p align="center">
+  <b>© 2024 WA Directly</b><br>
+  Made with 💚 for everyone who hates saving contacts
+</p>
