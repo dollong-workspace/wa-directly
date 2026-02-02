@@ -4,6 +4,10 @@
 
 Ever wanted to message a new number but dreaded the hassle of saving it first? WA Directly is your solution! Chat instantly, no drama.
 
+<p align="center">
+  <img src="https://wa-directly.lovable.app/screenshot.png" alt="WA Directly Screenshot" width="600" />
+</p>
+
 ---
 
 ## 🛑 The Problem
