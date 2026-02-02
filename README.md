@@ -1,57 +1,57 @@
 # 💬 WA Directly
 
-**Chat WhatsApp Tanpa Ribet Simpan Nomor.**
+**Chat on WhatsApp Without Saving Contacts.**
 
-Pernah nggak sih mau chat nomor baru tapi males banget harus save dulu? WA Directly solusinya! Langsung chat, tanpa drama.
-
----
-
-## 🛑 Masalahnya
-
-Mau chat nomor WhatsApp baru? Harus:
-1. Buka kontak
-2. Tambah nomor baru
-3. Kasih nama (padahal cuma mau chat sekali)
-4. Baru bisa chat
-
-Ribet? Banget. Kontak jadi penuh sama "Ojol Kemarin", "CS Olshop", "Kurir Paket" 😅
+Ever wanted to message a new number but dreaded the hassle of saving it first? WA Directly is your solution! Chat instantly, no drama.
 
 ---
 
-## 🚀 Solusinya: WA Directly
+## 🛑 The Problem
 
-Ketik nomor → Klik → Langsung chat. That's it.
+Want to chat with a new WhatsApp number? You have to:
+1. Open contacts
+2. Add new contact
+3. Give it a name (even for a one-time chat)
+4. Then finally chat
 
-Gak perlu save, gak perlu ribet. Nomor langsung dibuka di WhatsApp.
-
----
-
-## ✨ Fitur Utama
-
-| Fitur | Deskripsi |
-|-------|-----------|
-| ⚡ **Instant Chat** | Langsung buka WhatsApp tanpa save nomor |
-| 🌍 **Multi Country Code** | Support berbagai kode negara (Indonesia default) |
-| 🌙 **Dark Mode** | Tema gelap yang nyaman di mata |
-| 🔒 **Privacy First** | Tidak menyimpan data apapun |
-| 📱 **Responsive** | Works di semua device |
+Annoying? Absolutely. Your contacts end up filled with "Delivery Guy", "Random Shop", "That Courier" 😅
 
 ---
 
-## 📱 Cara Pakai
+## 🚀 The Solution: WA Directly
 
-**Step 1:** Pilih kode negara dari dropdown (default: Indonesia +62)
+Type number → Click → Chat instantly. That's it.
 
-**Step 2:** Masukkan nomor telepon **tanpa angka 0 di depan**
-- Contoh: untuk `0812-3456-789`, cukup ketik `8123456789`
-
-**Step 3:** Klik **"Start Chat on WhatsApp"** → Langsung terbuka WhatsApp!
+No saving, no hassle. The number opens directly in WhatsApp.
 
 ---
 
-## 🌐 Akses Website
+## ✨ Key Features
 
-Bisa diakses gratis di:
+| Feature | Description |
+|---------|-------------|
+| ⚡ **Instant Chat** | Open WhatsApp directly without saving contacts |
+| 🌍 **Multi Country Code** | Support for various country codes (Indonesia default) |
+| 🌙 **Dark Mode** | Dark theme that's easy on the eyes |
+| 🔒 **Privacy First** | No data stored whatsoever |
+| 📱 **Responsive** | Works on all devices |
+
+---
+
+## 📱 How to Use
+
+**Step 1:** Select country code from dropdown (default: Indonesia +62)
+
+**Step 2:** Enter phone number **without the leading zero**
+- Example: for `0812-3456-789`, just type `8123456789`
+
+**Step 3:** Click **"Start Chat on WhatsApp"** → WhatsApp opens instantly!
+
+---
+
+## 🌐 Access the Website
+
+Available for free at:
 
 | Platform | Link |
 |----------|------|
@@ -60,14 +60,14 @@ Bisa diakses gratis di:
 
 ---
 
-## 🔒 Privasi
+## 🔒 Privacy
 
 **Zero data stored.** Seriously.
 
-- ❌ Tidak menyimpan nomor telepon
-- ❌ Tidak ada tracking
-- ❌ Tidak ada analytics creepy
-- ✅ Hanya redirect ke `https://wa.me/...` (official WhatsApp API)
+- ❌ No phone numbers saved
+- ❌ No tracking
+- ❌ No creepy analytics
+- ✅ Only redirects to `https://wa.me/...` (official WhatsApp API)
 
 Your privacy is safe with us. Because we literally don't store anything 🤷‍♂️
 
@@ -86,11 +86,11 @@ Built with modern tools:
 
 ## ⭐ Support
 
-Kalau project ini helpful, kasih ⭐ di repo ya! Gratis kok, sama kayak app-nya 😄
+If this project is helpful, give it a ⭐ on the repo! It's free, just like the app 😄
 
 ---
 
 <p align="center">
-  <b>© 2024 WA Directly</b><br>
+  <b>© 2026 WA Directly</b><br>
   Made with 💚 for everyone who hates saving contacts
 </p>
