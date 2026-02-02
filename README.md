@@ -5,8 +5,9 @@
 Ever wanted to message a new number but dreaded the hassle of saving it first? WA Directly is your solution! Chat instantly, no drama.
 
 <p align="center">
-  <img src="https://wa-directly.lovable.app/screenshot.png" alt="WA Directly Screenshot" width="600" />
+  <img src="https://raw.githubusercontent.com/dollong-workspace/wa-directly/refs/heads/main/public/wa-directly-preview.png" alt="WA Directly Website Preview" />
 </p>
+
 
 ---
 
